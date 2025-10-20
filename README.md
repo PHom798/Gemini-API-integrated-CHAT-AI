@@ -21,7 +21,19 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 - 🎨 **Modern UI/UX** — Intuitive and visually appealing interface designed in Flutter.  
 - 🌐 **Cross-Platform Support** — Works on Android, iOS, Web, and Desktop.  
 - 🧩 **Extensible Architecture** — Easily integrate with additional APIs or expand functionality.  
-- 🕶️ **Dark & Light Themes** — Switch seamlessly between themes for better usability.  
+- 🕶️ **Dark & Light Themes** — Switch seamlessly between themes for better usability.
+
+## 📱 Screenshots
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="photos/image3.jpg" alt="Test 1" width="250"/></td>
+      <td><img src="photos/image2.jpg" alt="Test 2" width="250"/></td>
+      <td><img src="photos/image4.jpg" alt="Test 3" width="250"/></td>
+      <td><img src="photos/image1.jpg" alt="Test 4" width="250"/></td>
+
+  </table>
+</div>
 
 ---
 
