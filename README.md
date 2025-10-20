@@ -37,6 +37,16 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 
 ---
 
+## 🎥 Demo Video
+
+Check out the app in action on **X:**  
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1948393335435215355)
+
+You can also share your thoughts or feedback on the post — I’d love to hear what you think! 💬
+
+
+---
+
 ## 🏗️ Tech Stack
 
 | Technology | Description |
