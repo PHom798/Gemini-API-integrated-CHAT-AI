@@ -19,7 +19,7 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 
 <div align="center">
   
-  [![Flutter Color Palette Extractor Demo](screenshots/qrgen.png)]
+  [![Flutter Color Palette Extractor Demo](screenshots/geminiday2.png)]
     
 </div>
 
