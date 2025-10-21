@@ -14,6 +14,17 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 
 ---
 
+
+## 🎬 Intro
+
+<div align="center">
+  
+  [![Flutter Color Palette Extractor Demo](screenshots/qrgen.png)]
+    
+</div>
+
+
+
 ## 🚀 Features
 
 - 💬 **AI-Powered Conversations** — Experience realistic and dynamic chats powered by Gemini API.  
@@ -21,7 +32,6 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 - 🎨 **Modern UI/UX** — Intuitive and visually appealing interface designed in Flutter.  
 - 🌐 **Cross-Platform Support** — Works on Android, iOS, Web, and Desktop.  
 - 🧩 **Extensible Architecture** — Easily integrate with additional APIs or expand functionality.  
-- 🕶️ **Dark & Light Themes** — Switch seamlessly between themes for better usability.
 
 ## 📱 Screenshots
 <div align="left">
