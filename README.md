@@ -94,6 +94,20 @@ flutter run
 ```
 
 
+## 💬 Connect
+
+For questions, feedback, or collaborations:
+
+📧 **[My Email](coolmax17787@gmail.com)**
+🐦 **[Follow me on X (Twitter)](https://x.com/KishanP07684084)**
+💼 **[LinkedIn](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)**
+
+---
+
+> 🌟 *If you find this project helpful or inspiring, don't forget to star the repo and share it with your network!*
+
+
+
 
 
 
