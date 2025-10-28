@@ -2,7 +2,6 @@
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Powered by Gemini API](https://img.shields.io/badge/Powered%20by-Gemini%20API-blueviolet)](https://ai.google.dev/gemini-api)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.org/)
 
 ## 🧠 Overview
@@ -19,7 +18,7 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 
 <div align="center">
   
-  ![Flutter Chat App](photos/geminiday2.png)
+  ![Flutter Chat App](photos/gem.png)
     
 </div>
 
@@ -34,6 +33,13 @@ This project demonstrates the seamless integration of Google's Gemini API into a
 - 🧩 **Extensible Architecture** — Easily integrate with additional APIs or expand functionality.  
 
 ## 📱 Screenshots
+</div>
+
+<div align="center">
+  
+  ![Flutter Chat App](photos/geminiday2.png)
+    
+</div>
 <div align="left">
   <table>
     <tr>
@@ -43,7 +49,7 @@ This project demonstrates the seamless integration of Google's Gemini API into a
       <td><img src="photos/image1.jpg" alt="Test 4" width="250"/></td>
 
   </table>
-</div>
+
 
 ---
 
